@@ -1,0 +1,16 @@
+.formAll{
+  margin: 15px;
+
+
+display: flex;
+justify-content: space-between;
+    
+}
+.input{
+        padding: 5px ;
+        border-radius:5px ;
+}
+.button{
+    background-color: rgb(71, 131, 244);
+    border-radius:5px ;
+}

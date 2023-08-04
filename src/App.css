@@ -1,0 +1,18 @@
+.App{
+  width: 300px;
+  margin: 0 auto;
+}
+.todoApp{
+  padding: 10px;
+  border-bottom:1px solid black ;
+  display: flex;
+  justify-content:space-between;
+
+ 
+}
+.ph{
+  margin: 0;
+}
+h1{
+  text-align: center;
+}
